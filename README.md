@@ -1,5 +1,6 @@
 # Diwali-sales-analysis
  An Exploratory Data Analysis(EDA) end-to-end project in Python
+ 
 Domain: Retail | Tech Stack: Python (Pandas, Matplotlib, Seaborn)
 
 This project analyzes Diwali season sales data to uncover insights that improve customer experience and optimize inventory planning.
